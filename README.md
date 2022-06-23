@@ -1,0 +1,2 @@
+# Random-Password-Generator-
+This project will help you to create random password. A password generator is a software tool that creates random or customized passwords for users. It helps users create stronger passwords that provide greater security for a given type of access.A  random password generator is a software tool that creates random or customized passwords for users. It helps users create stronger passwords that provide greater security for a given type of access. It is completely coded in python if you have any suggestion please reach out to me.
